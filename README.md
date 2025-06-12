@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white]
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
 
 <!--
 **louvredev/louvredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
