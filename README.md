@@ -1,12 +1,11 @@
-## Hi there 👋
+## Greetings! 👋
+I'm a front-end developer and currently learning about Svelte :D
 
+Usually I use these technologies to support my development environment
 <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
 
 <!--
-**louvredev/louvredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
