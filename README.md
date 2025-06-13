@@ -1,5 +1,5 @@
 ## Greetings! 👋
-- I'm a front-end developer and currently learning about Svelte and Fastify :D
+- I'm a front-end developer and currently learning about Svelte :D
 - Sometimes I develop some IoT projects
 
 ### My Tech Stack
