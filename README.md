@@ -1,5 +1,6 @@
 ## Greetings! 👋
-- I'm a IT engineer and I love interact with hardware
+- I'm a IT engineer and I love interacting with hardware
+- I can build web app 
 - Also doing some fun projects for my own Blackberry (Blackberry 10 OS)
 - Sometimes I develop some IoT projects
 
