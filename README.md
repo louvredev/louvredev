@@ -1,5 +1,5 @@
 ## Greetings! 👋
-- I'm a front-end developer and currently learning about Svelte :D
+- I'm a IT engineer and I love interact with hardware
 - Also doing some fun projects for my own Blackberry (Blackberry 10 OS)
 - Sometimes I develop some IoT projects
 
