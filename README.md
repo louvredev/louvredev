@@ -1,5 +1,6 @@
 ## Greetings! 👋
 - I'm an IT engineer and I love interacting with hardware
+- Linux's fan (currently using Debian)
 - I can build web app 
 - Also doing some fun projects for my own Blackberry (Blackberry 10 OS)
 - Sometimes I develop some IoT projects
