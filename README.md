@@ -1,5 +1,6 @@
 ## Greetings! 👋
 - I'm a front-end developer and currently learning about Svelte :D
+- Also doing some fun projects for my own Blackberry (Blackberry 10 OS)
 - Sometimes I develop some IoT projects
 
 ### Tech I Mainly Use
