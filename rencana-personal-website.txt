@@ -1,0 +1,13 @@
+/                 home
+/blog         articles
+/projects         projects
+/colophon         colophon dari project
+/uses             uses
+/music            spotify top track & artists, wrapped
+
+ikut catppuccin webring
+tambah theme catppuccin
+
+di navbar / ada /, /projects, dan /blog
+di home, description ada /uses, /music
+di /projects ada /colophon
