@@ -1,0 +1,9 @@
+# Jenis-jenis Website
+
+## 1. Static Website
+## 2. Dynamic Website
+## 3. Web Application
+## 4. Progressive Web Application (PWA)
+## 5. Single Page Application (SPA)
+## 6. Multi-Page Application (MPA)
+## 7. Hybrid/SSR (Server-Side Rendered)
